@@ -1,5 +1,5 @@
-1 def introduce():
-2     print "Hi! I'm Jacob"
+def introduce():
+    print "Hi! I'm Jacob"
 
 def goodbye():
 	print "Bye! Nice to meet you :3"
